@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Group_2620" data-name="Group 2620" transform="translate(-83 -686)">
+    <g id="Ellipse_1409" data-name="Ellipse 1409" transform="translate(83 686)" fill="#fff" stroke="#aab5c6" stroke-width="1">
+      <circle cx="18" cy="18" r="18" stroke="none"/>
+      <circle cx="18" cy="18" r="17.5" fill="none"/>
+    </g>
+    <g id="Group_2619" data-name="Group 2619" transform="translate(-86.107 208.344)">
+      <g id="Group_2263" data-name="Group 2263" transform="translate(178.455 489.959)">
+        <path id="Path_2089" data-name="Path 2089" d="M188.112,506.16h4.9a1.505,1.505,0,0,0,1.5-1.5v-9.134a1.505,1.505,0,0,0-1.5-1.5H179.955a1.5,1.5,0,0,0-1.5,1.5v9.134a1.5,1.5,0,0,0,1.5,1.5h2.085v4.427l3.976-4.427" transform="translate(-178.455 -494.025)" fill="none" stroke="#aab5c6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <path id="Path_2090" data-name="Path 2090" d="M187.593,488.156h13.563a1.505,1.505,0,0,1,1.5,1.5v9.134a1.505,1.505,0,0,1-1.5,1.5h-.21" transform="translate(-6.331 0)" fill="none" stroke="#aab5c6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

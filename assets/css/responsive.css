@@ -1,0 +1,434 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .grid-calendar .grid-cell > div > div {
+        min-height: 110px;
+    }
+    .chat-scroll-field {
+        max-height: 270px;
+    }
+    .email-body textarea {
+        height: 60px;
+    }
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .view-20-content {
+        padding-right: 0;
+    }
+    .grid-calendar .grid-cell > div > div {
+        min-height: 110px;
+    }
+    .calendar-wrapper-box {
+        padding-top: 25px;
+        overflow-x: scroll;
+    }
+    .overflow-scroll {
+        overflow: scroll;
+    }
+    .calendar-box {
+        width: 1200px;
+    }
+    .tenant-column.bdr-right::after {
+        content: none;
+    }
+    .tenacy-dashboard-wrap {
+        grid-column-gap: 30px;
+        grid-row-gap: 80px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .all-unit-g-wrap {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .property-files {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .toggle-bar {
+        display:inline-block;
+    }
+    .page-main-content {
+        margin-top: 50px;
+        margin-left: 55px;
+    }
+    .view-20-content {
+        padding-right: 0;
+    }
+    /* .sidebar-tgl-btn {
+        opacity: 1;
+        visibility: visible;
+    }
+    .left-right-flex-wrap .right-sidebar-wrap {
+        transform: translateX(0);
+        position: absolute;
+        right: -250px;
+        z-index: 5;
+    }
+    .lf-main-content {
+        flex: 0 0 100%;
+    }
+    .right-sidebar-wrap.active {
+        right: 0;
+    } */
+    .left-right-flex-wrap {
+        display: block;
+    }
+    .right-sidebar-wrap {
+        width: 100%;
+    }
+    .calendar-wrapper-box {
+        padding-top: 25px;
+        overflow-x: scroll;
+    }
+    .overflow-scroll {
+        overflow: scroll;
+    }
+    .calendar-box {
+        width: 1200px;
+    }
+    .tenant-column.bdr-right::after {
+        content: none;
+    }
+
+    .message-flex-wrap {
+        display: block;
+      }
+      .left-message-notification {
+        width: 100%;
+        margin-bottom: 20px;
+      }
+      .pg-backbtn.d-xl-none {
+        position: unset;
+        margin-top: 15px;
+        margin-left: auto;
+        margin-right: 15px;
+    }
+    .tenacy-dashboard-wrap {
+        grid-column-gap: 30px;
+        grid-row-gap: 80px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .tenacy-dashboard-wrap {
+        grid-template-columns: 1fr;
+        max-height: 430px;
+    }
+    .propery-holder-info {
+        grid-template-columns: 148px auto;
+    }
+    .property-holder-content h4 {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+    .property-holder-content p a {
+        font-size: 14px;
+    }
+    .sendar-wrap a:not(:last-child) {
+        margin-right: 9px;
+    }
+    .print-btn {
+        margin-left: 45px;
+    }
+    .property-files {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .all-unit-g-wrap {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+}
+
+ 
+/* small mobile :320px. */
+@media (min-width: 320px) and (max-width: 767.98px) {
+    .toggle-bar {
+        display:inline-block;
+    }
+    .page-main-content {
+        margin-top: 50px;
+        margin-left: 55px;
+    }
+    .left-right-flex-wrap {
+        display: block;
+    }
+    .nav-link-wrap a {
+        margin-left: 15px;
+        font-size: 13px;
+    }
+    .tb-content-wrap {
+        padding: 20px 15px;
+    }
+    .logo {
+        flex: 0 0 100px;
+        max-width: 100px;
+    }
+    .create-wrap {
+        flex: none;
+    }
+    .user-part {
+        flex: none;
+    }
+    .user-pf span {
+        display: none;
+    }
+    .header-flex-wrap {
+        justify-content: space-between;
+    }
+    .logo img {
+        max-width: 100%;
+    }
+    .right-sidebar-wrap {
+        width: 100%;
+        padding-top: 35px;
+    }
+    .view-20-content {
+        padding-right: 0;
+        padding-left: 15px;
+    }
+    .view-20-wrap.wrap-22 .view-20-content {
+        padding-right: 0;
+    }
+    .date-20-content {
+        padding-left: 15px;
+    }
+    .add-guaranter-btn a {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .guaranter-row .selection-input-wrap {
+        margin-right: 10px;
+    }
+    .view-20-wrap {
+        margin-top: 30px;
+    }
+    .table.rent-table tr td {
+        font-size: 14px;
+        padding: 10px 5px;
+    }
+    
+.thing-count-board {
+    flex-wrap: wrap;
+    padding-bottom: 0;
+  }
+  .thing-wrap {
+	margin: 0 9px;
+	margin-bottom: 22px;
+}
+
+.thing-count-board {
+    flex-wrap: wrap;
+    padding-bottom: 0;
+  }
+  .table.rent-table {
+    width: 767px;
+  }
+  .rent-table-wrap {
+    overflow-x: scroll;
+  }
+  .left-right-flex-wrap.action .right-sidebar-wrap {
+	transform: translateX(0);
+}
+.calendar-box {
+	width: 767px;
+	padding: 15px;
+	padding-top: 20px;
+}
+.grid-calendar .grid-cell > div > div {
+	min-height: 100px;
+	max-height: 110px;
+	padding: 10px;
+	padding-top: 8px;
+}
+.calendar-wrapper-box {
+	overflow-x: scroll;
+}
+.album-play-field {
+	padding-right: 0;
+}
+.album-play-list {
+	margin-top: 40px;
+}
+.header-area.style-2 .create-wrap {
+	flex: none;
+}
+.user-part.style-2 {
+	flex: 0 0 150px;
+	max-width: 150px;
+}
+.user-part.style-2 li:not(:first-child) {
+	margin-left: 12px;
+}
+.user-part.style-2 .user-pf img {
+	width: 40px;
+	margin-right: 2px;
+}
+.tenant-column.bdr-right::after {
+	content: none;
+}
+.tenant {
+	width: 100%;
+}
+.tenant .page-title {
+	margin-bottom: 30px;
+	margin-left: 0;
+	margin-top: 15px;
+}
+.create-dropdown {
+	left: -72px;
+}
+
+.message-flex-wrap {
+    display: block;
+  }
+  .left-message-notification {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .pg-backbtn.d-xl-none {
+    position: unset;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: 15px;
+}
+.focus-dropdown-content-wrap.used-for-recipient {
+	width: 310px;
+	top: 0;
+	left: -178px;
+}
+.focus-dropdown-content-wrap.used-for-e-template {
+	width: 250px;
+	right: 18%;
+	top: -50px;
+}
+
+.secondary-menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .secondary-menu li a {
+    margin: 0;
+  }
+
+  .landlord-bg-wrap {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .landlord-content-wrap {
+    padding-top: 15px;
+  }
+  .l-tab-content .input-inside.style-2 {
+	margin-top: 30px;
+	margin-bottom: 55px;
+}
+.lanlord-pf-stamp {
+	transform: translateX(15px);
+}
+
+.landlord-bg-wrap {
+	min-height: calc(100vh - 140px);
+}
+.title-style-2 {
+	font-size: 21px;
+}
+.tenacy-dashboard-wrap {
+	grid-column-gap: 30px;
+	grid-row-gap: 80px;
+	padding-left: 0;
+	padding-right: 15px;
+	grid-template-columns: 1fr;
+	max-height: 380px;
+	margin-top: 30px;
+}
+.t-d-option {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 10px;
+}
+.propery-holder-info {
+	grid-template-columns: 1fr;
+}
+.property-holder-content h4 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.property-holder-content p a {
+    font-size: 14px;
+}
+.sendar-wrap a:not(:last-child) {
+    margin-right: 9px;
+}
+.property-holder-thumbnail {
+	max-width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.propery-holder-info {
+	padding: 20px 15px;
+}
+.sendar-wrap a {
+	margin-bottom: 10px;
+}
+.all-unit-wrap {
+	padding: 20px 15px;
+}
+.all-unit-g-wrap {
+	grid-template-columns: 1fr 1fr;
+}
+.property-files {
+	grid-template-columns: 1fr 1fr;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.time-step-wrap {
+	margin-left: 15px;
+	padding: 15px;
+	padding-top: 40px;
+	margin-right: 15px;
+}
+.time-step-row {
+	grid-template-columns: 70px auto;
+	grid-column-gap: 37px;
+}
+.rd-dot {
+	left: 80px;
+}
+.time-step-by-date::after {
+	left: 87px;
+}
+.time-step-by-date::before {
+	left: 45px;
+}
+.right-time-text {
+	font-size: 13px;
+}
+.print-menu {
+	padding-left: 0;
+	margin-bottom: 40px;
+	flex-wrap: wrap;
+}
+.print-btn {
+	margin-left: 0;
+}
+
+
+
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+ 
+}

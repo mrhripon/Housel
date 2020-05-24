@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.833" height="22.296" viewBox="0 0 24.833 22.296">
+  <g id="Group_2337" data-name="Group 2337" transform="translate(-176.253 -41.129)">
+    <path id="Path_2075" data-name="Path 2075" d="M0,0H5.3" transform="translate(186.007 44.847)" fill="none" stroke="#55576f" stroke-width="1"/>
+    <path id="Path_2074" data-name="Path 2074" d="M0,0H5.3" transform="translate(186.007 47.831)" fill="none" stroke="#55576f" stroke-width="1"/>
+    <line id="Line_488" data-name="Line 488" x2="5.303" transform="translate(186.007 50.815)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_489" data-name="Line 489" x2="5.303" transform="translate(186.007 56.782)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_490" data-name="Line 490" x2="5.303" transform="translate(186.007 59.766)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_491" data-name="Line 491" x2="5.303" transform="translate(186.007 53.799)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_492" data-name="Line 492" x2="5.303" transform="translate(186.007 62.75)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_493" data-name="Line 493" x2="2.942" transform="translate(179.049 56.782)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_494" data-name="Line 494" x2="2.942" transform="translate(179.049 59.766)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_495" data-name="Line 495" x2="2.942" transform="translate(179.049 53.799)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_496" data-name="Line 496" x2="2.942" transform="translate(179.049 62.75)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_497" data-name="Line 497" x2="2.921" transform="translate(195.276 56.782)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_498" data-name="Line 498" x2="2.921" transform="translate(195.276 59.766)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_499" data-name="Line 499" x2="2.921" transform="translate(195.276 62.75)" fill="none" stroke="#55576f" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Group_2251" data-name="Group 2251" transform="translate(177.003 41.879)">
+      <path id="Path_2071" data-name="Path 2071" d="M195.626,63.425V43a1.122,1.122,0,0,1,1.119-1.119h7.161A1.122,1.122,0,0,1,205.025,43V63.425" transform="translate(-188.68 -41.879)" fill="none" stroke="#55576f" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_2072" data-name="Path 2072" d="M177,78.245V66.634a1.122,1.122,0,0,1,1.119-1.119h3.87" transform="translate(-177.003 -56.7)" fill="none" stroke="#55576f" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_2073" data-name="Path 2073" d="M231.057,83.315v-8.6a1.122,1.122,0,0,0-1.119-1.119H226" transform="translate(-207.724 -61.769)" fill="none" stroke="#55576f" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
